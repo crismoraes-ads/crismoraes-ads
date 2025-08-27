@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou a Cristiane 👋
 
-<!--
-**crismoraes-ads/crismoraes-ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔍 Aspirante a Analista de Qualidade de Software (QA)  
+💻 Foco em testes de software, programação e boas práticas  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias em aprendizado
+- Python  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- SQL básico  
+- Testes de Software | Metodologias Ágeis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Objetivos
+- Desenvolver habilidades em QA (testes manuais e automatizados)  
+- Criar projetos práticos para portfólio  
+- Aprender e compartilhar conhecimento em tecnologia  
+
+## 📂 Projetos em destaque
+1. [Teste de Sistema Simples](https://github.com/crismoraes-ads/teste-software-exemplo)  
+   Projeto de estudo para praticar QA e programação básica. Inclui casos de teste manuais, simulação de cadastro e listagem de usuários, além de documentação completa em README. Ideal para aprendizado de lógica, organização de código e boas práticas em Git/GitHub.
+
+2. [Mini Sistema de Cadastro de Usuários](https://github.com/crismoraes-ads/sistema-cadastro-usuarios)  
+   Sistema simples para cadastrar, listar e buscar usuários. Prática de lógica de programação, manipulação de dados e documentação clara do projeto.
+
+## 📫 Contato
+- LinkedIn: [Cristiane Moraes](https://www.linkedin.com/in/cristiane-moraes-ads)  
+- WhatsApp: [Clique aqui](https://wa.me/5511930103195)  
+- E-mail: lcris149@gmail.com
