@@ -20,8 +20,9 @@
 1. [Teste de Sistema Simples](https://github.com/crismoraes-ads/teste-software-exemplo)  
    Projeto de estudo para praticar QA e programação básica. Inclui casos de teste manuais, simulação de cadastro e listagem de usuários, além de documentação completa em README. Ideal para aprendizado de lógica, organização de código e boas práticas em Git/GitHub.
 
-2. [Mini Sistema de Cadastro de Usuários](https://https://github.com/crismoraes-ads/teste-software-exemplo/blob/main/cadastro.py)  
-   Sistema simples para cadastrar, listar e buscar usuários. Prática de lógica de programação, manipulação de dados e documentação clara do projeto.
+2. [Mini Sistema de Cadastro de Usuários](https://github.com/crismoraes-ads/teste-software-exemplo/blob/main/cadastro.py)  
+   Sistema simples para cadastrar, listar e buscar usuários. Prática de lógica de programação, manipulação de dados e documentação clara do projeto. 
+   
 
 ## 📫 Contato
 - LinkedIn: [Cristiane Moraes](https://www.linkedin.com/in/cristiane-moraes-ads)  
